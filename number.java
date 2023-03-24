@@ -7,10 +7,10 @@ public class number{
         n2=input.nextInt();
         n3=input.nextInt();
         if(n1<n2 && n2<n3){
-            System.out.println("the numbersare in increasing order");
+            System.out.println("the numbers are in increasing order");
         }
         else if(n1>n2 && n2>n3){
-            System.out.println("the numbersare in decreasing order");
+            System.out.println("the numbers are in decreasing order");
         }
         else{
             System.out.println("the numbers are in neither in increasing 
